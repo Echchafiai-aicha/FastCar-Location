@@ -20,7 +20,7 @@ Face aux limites d'une gestion entièrement manuelle (dossiers papier, registres
 ## 📸 Aperçu de l'application
 
 <div align="center">
-  <img src="images/dashboard.png" alt="Dashboard principal FastCar Location" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="A.png" alt="Dashboard principal FastCar Location" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   <br/>
   <em>Figure 1 : Interface principale – Dashboard de gestion FastCar</em>
 </div>
@@ -28,7 +28,7 @@ Face aux limites d'une gestion entièrement manuelle (dossiers papier, registres
 <br/>
 
 <div align="center">
-  <img src="images/contrats.png" alt="Gestion des contrats FastCar Location" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="B.png" alt="Gestion des contrats FastCar Location" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   <br/>
   <em>Figure 2 : Interface de gestion des contrats</em>
 </div>
@@ -65,7 +65,7 @@ Face aux limites d'une gestion entièrement manuelle (dossiers papier, registres
 ### 4. 📄 Gestion des contrats
 
 <div align="center">
-  <img src="images/nouveau_contrat.png" alt="Formulaire nouveau contrat" width="500" style="border-radius: 10px;"/>
+  <img src="C.png" alt="Formulaire nouveau contrat" width="500" style="border-radius: 10px;"/>
   <br/>
   <em>Figure 3 : Formulaire de création d'un nouveau contrat</em>
 </div>
@@ -80,7 +80,7 @@ Face aux limites d'une gestion entièrement manuelle (dossiers papier, registres
 ### 5. 🧾 Génération de factures
 
 <div align="center">
-  <img src="images/facture.png" alt="Exemple de facture générée" width="500" style="border-radius: 10px; border: 1px solid #ccc;"/>
+  <img src="D.png" alt="Exemple de facture générée" width="500" style="border-radius: 10px; border: 1px solid #ccc;"/>
   <br/>
   <em>Figure 4 : Exemple de facture générée automatiquement</em>
 </div>
